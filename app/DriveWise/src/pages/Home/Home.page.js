@@ -27,8 +27,7 @@ const ASPECT_RATIO = width / height;
 const LATITUDE_DELTA = 0.0922;
 const LONGITUDE_DELTA = LATITUDE_DELTA * ASPECT_RATIO;
 const UPDATE_TIME = 100;
-const OPENAI_API_KEY =
-  "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"; // Replace with your OpenAI API key
+const OPENAI_API_KEY ="" // Replace with your OpenAI API key
 
 const initialRegion = {
   latitude: 42.3581,
@@ -37,7 +36,7 @@ const initialRegion = {
   longitudeDelta: LONGITUDE_DELTA,
 };
 
-const GOOGLE_MAPS_APIKEY = "AIzaSyAM9wBDTdoZsMKYAWCj-T35R_EnQlkigfg"; // Replace with your actual API key
+const GOOGLE_MAPS_APIKEY = ""; // Replace with your actual API key
 
 const MapScreen = ({ navigation }) => {
   const [region, setRegion] = useState(initialRegion);
