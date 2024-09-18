@@ -7,3 +7,4 @@
 
 
 Worked with: Yash Dagade, Brian Mason, Pranav Ponnusamy
+<img width="501" alt="Screenshot 2024-09-18 at 11 54 18 AM" src="https://github.com/user-attachments/assets/10722d52-e158-43a6-beb3-0c1cb71352af">
