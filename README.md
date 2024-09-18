@@ -4,3 +4,6 @@
 
 
 **DriveWise** is a mobile application designed to help new drivers improve their driving skills through AI-generated driving routes. Using our custom driving route algorithm that prioritizes road safety and driving easiness,  the app suggests optimal routes for beginner drivers. After every trip, users also get feedback on their driving performance (by tracking device motions for dangerous driving), and can record skills to improve on.
+
+
+Worked with: Yash Dagade, Brian Mason, Pranav Ponnusamy
